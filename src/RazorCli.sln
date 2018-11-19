@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RazorCli", "RazorCli\RazorCli.csproj", "{94E46A79-DCED-42D3-A224-32F9CF433E60}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "_build", "build\_build.csproj", "{8AB3FD94-250B-4620-AC33-33FECCDDC499}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8AB3FD94-250B-4620-AC33-33FECCDDC499}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8AB3FD94-250B-4620-AC33-33FECCDDC499}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94E46A79-DCED-42D3-A224-32F9CF433E60}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94E46A79-DCED-42D3-A224-32F9CF433E60}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94E46A79-DCED-42D3-A224-32F9CF433E60}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94E46A79-DCED-42D3-A224-32F9CF433E60}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E3BB3AD3-2AA5-41F2-B14C-C593D54559EF}
+	EndGlobalSection
+EndGlobal
